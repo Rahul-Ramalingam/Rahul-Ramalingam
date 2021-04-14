@@ -15,12 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 😄My Stats...
-<a href="#">
-         <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Ramalingam&bg_color=30,00d7ff,4ec442&title_color=fff&text_color=fff"
-         width="400" height="200">
-      </a>                   
-<a href="#">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Ramalingam&layout=compact"
-         width="400" height="200">
-      </a>
