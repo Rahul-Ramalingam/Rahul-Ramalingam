@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 😄My Stats...
 <a href="#">
-         <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Ramalingam&bg_color=30,009c8f,fafa6e&title_color=fff&text_color=fff"
+         <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Ramalingam&bg_color=30,00d7ff,c64b4b&title_color=fff&text_color=fff"
          width="400" height="200">
       </a>                   
 <a href="#">
