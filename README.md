@@ -1,5 +1,5 @@
 ### 👋 Hello Developer!, I am Rahul😎...
-Person with creative thoughts. A great believer in hard work over luck. I love to learn new tech's. Feel free to suggest me a interesting tech. Overall I am a new developer/Engineer who is sharpening his skills to become a gem in the world of Technology😁
+Person with creative thoughts. I love to learn new tech's. Feel free to suggest me a interesting tech. Overall I am a new developer/Engineer who is sharpening his skills to become a gem in the world of Technology😁
 <!--
 **Rahul-Ramalingam/Rahul-Ramalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
