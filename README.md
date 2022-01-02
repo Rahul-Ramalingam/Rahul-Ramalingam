@@ -1,6 +1,9 @@
 ### 👋 Hello Developer!, I am Rahul😎...
 Person with creative thoughts. I love to learn new tech's. Feel free to suggest me a interesting tech. Overall I am a new developer/Engineer who is sharpening his skills to become a gem in the world of Technology😁
 
+- 🌱 Currently Learning .Net Framework and Flutter.
+- ⚡ Fun fact: I Never SHUT DOWN my PC. 
+
 ### 😄My Stats...
 <a href="#">
          <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Ramalingam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
